@@ -1,6 +1,6 @@
 """
 Author: Georg Börries
-Date: 24.04.2024
+Datum: 12.05.2024
 
 Dieses Modul enthält Hilfsfunktionen
 """

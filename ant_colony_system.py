@@ -1,6 +1,6 @@
 """
 Author: Georg Börries
-Date: 14.05.2024
+Datum: 12.05.2024
 
 Klasse für das Ant Colony System zum Optimieren von Liefertouren mit und ohne Drohnenunterstützung
 
